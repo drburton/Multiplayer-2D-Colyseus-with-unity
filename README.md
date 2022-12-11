@@ -1,5 +1,5 @@
 # Multiplayer-2D-Colyseus-with-unity
-Code repository for the textbook "Creating Multiplayer 2D Games with Unity" https://burtonsmediagroup.com/books/creating-multiplayer-2d-games/<br>
+Code repository for the textbook "Creating Multiplayer 2D Games with Unity" <br>https://burtonsmediagroup.com/books/creating-multiplayer-2d-games/<br>
 
 <b>Using Code Examples and Fair Use Laws</b><br>
 This book was written to help you learn to develop multiplayer games. In general, you may use the code and examples in this book in your programs and documentation. You do not need to contact us for permission for reproducing a portion of the code. You don’t need to ask permission to write an app that uses large chunks of code. We would appreciate an acknowledgment or shout-out somewhere in your credits.<br>
